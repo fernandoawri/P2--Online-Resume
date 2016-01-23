@@ -1,7 +1,7 @@
 P2 -- Online Resume
 ===============================
 ## How to load Online Resume repository
-Inside Online Resume repository there are 3 folders css, images & js also you will find an index.html and README.md. to lunch the Frogger game you need to open index.html in one browser.
+Inside Online Resume repository there are 3 folders css, images & js also you will find an index.html and README.md. to lunch the Online Resume  you need to open index.html in one browser.
 * /css/
 * /images/
 * /js /
