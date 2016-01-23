@@ -17,6 +17,7 @@ Inside Online Resume repository there are 3 folders css, images & js also you wi
 
 ### By the end:
 My resume looks something like this
+
 ![My Resume](https://github.com/fernandoawri/P2--Online-Resume/blob/master/images/readme.JPG)
 
 And your repository will include the following files:
